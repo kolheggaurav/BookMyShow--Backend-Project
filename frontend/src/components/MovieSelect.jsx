@@ -40,7 +40,7 @@ const MovieSelect = ({ movieToHome }) => {
                   />
                   <label
                     htmlFor={movie}
-                    className="flex self-center px-4 py-2 text-center border-2 border-black rounded-lg cursor-pointer pool_type hover:opacity-80 bg-lime-200 hover:border-red-700 hover:bg-green-500"
+                    className="flex self-center px-4 py-2 text-center border-2 border-black rounded-lg cursor-pointer pool_type hover:opacity-80 bg-slate-300 hover:border-red-700 hover:bg-green-500"
                   >
                     {movie}
                   </label>
